@@ -1,4 +1,4 @@
-# MINI RPG - Exercic JavaScript, HTML & CSS
+# MINI RPG - Exercice JavaScript, HTML & CSS
 
 N.B: This project is written in French.
 
